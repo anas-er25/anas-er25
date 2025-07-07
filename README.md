@@ -9,8 +9,6 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 # 💫 About Me:
-I'm currently studying
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/taner.olmez.160) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anas_errakibi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anas-er-rakibi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Errakibi25) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@AjiNcodew) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:errakibianasdev@gmail.com) 
